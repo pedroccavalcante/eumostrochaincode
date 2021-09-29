@@ -1,3 +1,0 @@
-# eumostroChaincode
-
-fabric chaincode
